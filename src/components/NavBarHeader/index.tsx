@@ -7,7 +7,7 @@ export function NavBarHeader () {
             <ButtonNavHeader label='About'/>
             <ButtonNavHeader label='Portfolio'/>
             <ButtonNavHeader label='Blog'/>
-            <ButtonNavHeader label='Contacto'/>
+            <ButtonNavHeader label='Contact'/>
         </div>
     )
 }

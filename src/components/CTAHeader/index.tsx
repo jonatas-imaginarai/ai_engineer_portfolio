@@ -4,7 +4,7 @@ export function CTAHeader () {
     return (
         <>
             <ButtonNavHeader
-                label='Contactame'
+                label='Contact Me'
                 className='border border-gray-200 px-6 py-2'
             />
         </>
