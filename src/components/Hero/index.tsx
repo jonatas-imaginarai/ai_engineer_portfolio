@@ -5,7 +5,7 @@ import { CTAHero } from '../CTAHero'
 
 export function Hero () {
     return (
-        <div className=''>
+        <div className='flex flex-col flex-1 justify-center w-1/2'>
             <TitleHero />
             <ParagraphHero
                 label='I build AI and automation solutions for business.'
