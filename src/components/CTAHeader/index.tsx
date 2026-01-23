@@ -5,7 +5,7 @@ export function CTAHeader () {
         <>
             <ButtonNavHeader
                 label='Contact Me'
-                className='border border-gray-200 px-6 py-2'
+                className='border border-gray-200 px-6 py-2 shadow-sm'
             />
         </>
     )

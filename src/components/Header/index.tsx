@@ -5,8 +5,8 @@ import { LogoHeader } from '../LogoHeader'
 export function Header () {
     return (
 
-        <div>
-            <header className='flex items-center justify-between relative p-4 mx-4 text-sm h-20'>
+        <div className=''>
+            <header className='flex items-center justify-between relative p-8 text-sm h-20 shadow-sm'>
                 <LogoHeader />
                 <NavBarHeader />
                 <CTAHeader />
