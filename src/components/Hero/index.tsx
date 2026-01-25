@@ -8,7 +8,7 @@ export function Hero () {
         <div className='flex flex-col flex-1 justify-center items-center w-full mt-16'>
             <TitleHero />
             <ParagraphHero
-                label='I build AI and automation solutions for business.'
+                label='I build AI Software and Automation Systems for Business.'
                 className='px-8 mt-6 text-wrap text-2xl text-slate-600'
             />
             <ParagraphHero

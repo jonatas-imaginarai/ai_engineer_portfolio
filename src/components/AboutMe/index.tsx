@@ -1,7 +1,7 @@
 
 
-const estiloAboutMeSection = 'flex text-sm w-full items-center gap-2'
-const estiloTitleAboutMe = 'text-md font-bold text-zinc-600 w-full text-center'
+const estiloAboutMeSection = 'flex text-sm w-1/2 items-center gap-2'
+const estiloTitleAboutMe = 'text-md font-bold text-zinc-600 text-center'
 const estiloSubTitleAboutMe = 'mt-2 text-2xl font-bold text-gray-500 w-full text-center'
 
 export function AboutMe() {
