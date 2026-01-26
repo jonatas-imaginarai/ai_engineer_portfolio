@@ -5,7 +5,7 @@ type CardsServicesProps = {
 }
 
 const estiloCardsService = ' flex border rounded-sm p-8 w-full gap-4 items-center h-24 shadow-md bg-zinc-50'
-const estiloTitleCardsService = 'font-bold py-1 border text-slate-700 rounded-md w-fit text-sm bg-slate-100 px-4'
+const estiloTitleCardsService = 'font-bold py-1 px-4 border text-slate-700 rounded-md w-fit text-sm bg-slate-100 '
 const estiloTextosCardsService = 'flex flex-col justify-items-start'
 const estiloContentCardsService = 'mt-1'
 const estiloIconCardService = 'size-16'

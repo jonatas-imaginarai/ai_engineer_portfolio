@@ -25,7 +25,7 @@ export function AboutMeSection () {
                     imgIconCardService = {imgIconBack}
                 />
                 <CardsServices
-                    titleCardService = 'AI Automation'
+                    titleCardService = 'AI Engineering and Automation'
                     textoCardService = 'I build AI-driven automations to streamline workflows and reduce manual work'
                     imgIconCardService = {imgIconAutomation}
                 />
