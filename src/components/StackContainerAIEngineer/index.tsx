@@ -7,7 +7,7 @@ import n8nIcon from '../../assets/icons/n8n-color.webp'
 import airflowIcon from '../../assets/icons/ApacheAirflow.webp'
 import opencvIcon from '../../assets/icons/OpenCV.webp'
 
-const estiloStackContainerAIEngineer = 'col-span-2 border border-slate-300 shadow-md flex gap-6 px-8 py-4 rounded-sm relative justify-self-center w-full max-w-3xl'
+const estiloStackContainerAIEngineer = 'col-span-2 border border-slate-300 shadow-md flex gap-6 px-8 py-6 rounded-sm relative justify-self-center w-full max-w-3xl items-center justify-center'
 
 export function StackContainerAIEngineer () {
     return (

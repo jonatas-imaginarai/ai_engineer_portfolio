@@ -1,12 +1,12 @@
 import { StackCard } from '../StackCard'
-import htmlIcon from '../../assets/icons/icons8-html5-48.webp'
-import cssIcon from '../../assets/icons/icons8-css3-100.webp'
-import javascriptIcon from '../../assets/icons/icons8-javascript-100.webp'
-import reactIcon from '../../assets/icons/icons8-react-80.webp'
-import tailwindcssIcon from '../../assets/icons/icons8-tailwind-css-100.webp'
-import typescriptIcon from '../../assets/icons/icons8-typescript-100.webp'
+import htmlIcon from '../../assets/icons/HTML5.webp'
+import cssIcon from '../../assets/icons/CSS3.webp'
+import javascriptIcon from '../../assets/icons/JavaScript.webp'
+import reactIcon from '../../assets/icons/React.webp'
+import tailwindcssIcon from '../../assets/icons/Tailwind CSS.webp'
+import typescriptIcon from '../../assets/icons/TypeScript.webp'
 
-const estiloStackContainerFront = 'border border-slate-300 shadow-md flex gap-6 w-fit px-8 py-4 rounded-sm relative justify-center items-center'
+const estiloStackContainerFront = 'border border-slate-300 shadow-md flex gap-6 w-fit px-8 py-6 rounded-sm relative justify-center items-center'
 
 export function StackContainerFront () {
     return (

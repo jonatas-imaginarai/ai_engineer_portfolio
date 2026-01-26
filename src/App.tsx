@@ -1,8 +1,8 @@
 import { Header } from './components/Header'
 import { Hero } from './components/Hero'
-import { AboutMe } from './components/AboutMe'
 import { AboutMeSection } from './components/AboutMeSection'
 import { StackSection } from './components/StackSection'
+import { ProjectSection } from './components/ProjectSection'
 import './App.css'
 
 
@@ -22,6 +22,9 @@ function App() {
         <hr className='mt-8' />
         <StackSection />
         <hr className='mt-8' />
+      </div>
+      <div>
+        <ProjectSection />
       </div>
     </>
   )
